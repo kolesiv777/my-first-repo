@@ -1,5 +1,3 @@
 # my-first-repo
 Задание выполнено успешно!
-
-
-![Uploading mel.jpg…]()
+<img scr="https://github.com/kolesiv777/my-first-repo/blob/main/mel.jpg"/>
